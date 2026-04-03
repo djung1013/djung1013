@@ -6,5 +6,6 @@ I take something that takes 5 minutes to do manually and turn it into a 3-month 
 
 I'm currently learning more about Altium Designer, LTspice, and MATLAB while expanding on my Python and C++ foundation. 
 
-Currently open to internships, collaborations, or anyone who wants to spend 3 months solving a 5-minute problem together. 
+Currently open to internships, collaborations, or anyone who wants to spend 3 months solving a 5-minute problem together.
+
 📫 [LinkedIn](https://www.linkedin.com/in/dongha-jung-a5b872346/) | djung1013@gmail.com
